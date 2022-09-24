@@ -9,7 +9,8 @@
         <entry key="app/src/main/res/drawable/ic_priority.xml" value="0.13" />
         <entry key="app/src/main/res/drawable/ic_search.xml" value="0.13" />
         <entry key="app/src/main/res/drawable/ic_sort.xml" value="0.13" />
-        <entry key="app/src/main/res/layout/fragment_tasks.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment2_layout.xml" value="0.11822916666666666" />
+        <entry key="app/src/main/res/layout/fragment_tasks.xml" value="0.22" />
       </map>
     </option>
   </component>
